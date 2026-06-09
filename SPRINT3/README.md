@@ -1,4 +1,4 @@
-Sprint 3 – Introducción a BigQuery y SQL en la Nube
+Introducción a BigQuery y SQL en la Nube
 Descripción
 En este sprint pasamos de trabajar en local (MySQL) a trabajar en Google BigQuery, un entorno serverless orientado al análisis de datos.
 El objetivo es entender cómo conectarse a datos existentes, gestionar costes en la nube y aplicar un flujo ELT básico para preparar datos
