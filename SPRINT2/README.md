@@ -2,13 +2,7 @@
 
 **Descripción:**
 
-Contiene información de una empresa dedicada a la venta de productos en línea. En esta actividad me centraré 
-en los datos relacionados con las transacciones realizadas y la información corporativa de la empresa participante.
-
-**Importante:**
-
-Todas las transformaciones e importaciones solicitadas en esta tarea se han realizado utilizando código SQL.
-En ningún momento se ha utilizado el asistente **(wizard)**.
+Entramos en el mundo del SQL y sus fundamentos, trabajando con bases de datos relacionales, consultas, subconsultas, diagramas, manipulación de tablas y Joins. Todas las transformaciones e importaciones solicitadas se han realizado exclusivamente mediante código SQL, sin utilizar en ningún momento el asistente (wizard).
 
 **Contenido:**
 
@@ -20,5 +14,6 @@ En ningún momento se ha utilizado el asistente **(wizard)**.
 >* Manipulación de Tablas.
 
 **Código utilizado:**
+
 CREATE, DATABASE, COLUMN, TABLE, LOAD, UPDATE, STR_DATE, DROP, PRIMARY KEY, FOREIGN KEY, SET, REFERENCES,
 ADD CONSTRAINT, SUBCONSULTAS, JOINS, INSERT, ALTER TABLE, WHERE/BETWEEN/AND, CASE/WHEN/ELSE/END, CREATE VIEW.
