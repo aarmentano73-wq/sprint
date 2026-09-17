@@ -1,6 +1,6 @@
 **SQL**
 
-**Comentarios:**
+**Descripción:**
 
 Contiene información de una empresa dedicada a la venta de productos en línea. En esta actividad me centraré 
 en los datos relacionados con las transacciones realizadas y la información corporativa de la empresa participante.
