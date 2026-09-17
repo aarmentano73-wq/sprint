@@ -1,8 +1,8 @@
-**Introducción a BigQuery y SQL en la Nube**
+**BigQuerys y SQL (cloud)**
 
 **Descripción:**
 
-En este sprint pasamos de trabajar en local (MySQL) a trabajar en Google BigQuery (cloud), un entorno serverless orientado al análisis de datos.
+En este proyecto pasamos de trabajar en local (MySQL) a trabajar en Google BigQuerys (cloud), un entorno serverless orientado al Análisis de Datos.
 
 **El objetivo:**
 
@@ -11,14 +11,13 @@ En este sprint pasamos de trabajar en local (MySQL) a trabajar en Google BigQuer
 >* Aplicar un flujo ELT básico para preparar datos para su análisis.
 >* Preparar datos para el análisis en un entorno cloud.
 
-**Contenido del Sprint:**
+**Contenido del Proyecto:**
 
-  >* Creación del proyecto en BigQuery
-  >* Uso de datasets Bronze, Silver y Gold
-  >* Creación de tablas externas
-  >* Limpieza y transformación de datos
-  >* Consultas SQL para validación y análisis
-  >* Trabajo en BigQuery Sandbox
-  >* Subida del proyecto a GitHub
+  >* Separación de almacenaje y Computo a BigQuerys.
+  >* Arquitectura de Datos. Implamentación del Patrón Medallion.
+  >* Transformación y Calidad del Dato en BigQuerys.
+  >* Limpieza y transformación de datos.
+  >* Consultas SQL para validación y análisis.
+
 
 
