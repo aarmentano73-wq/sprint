@@ -1,4 +1,4 @@
-**BigQuery y SQL (cloud)** (Parte I)
+**BigQuery y SQL (cloud)** *(Parte I)*
 
 **Descripción:**
 
