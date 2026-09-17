@@ -11,13 +11,13 @@ Repositorio que reúne los proyectos y aprendizajes desarrollados durante la for
 >>* Manipulación de bases de datos.
 >*  SPRINT 3-4 **BigQuery**
 >>*   Consulta y análisis de grandes volúmenes de datos mediante SQL.
->* SPRINT 5 **MongoDB** —
+>* SPRINT 5 **MongoDB** 
 >>*  Trabajo con bases de datos NoSQL.
 >>*  Estructuras de datos no relacionales.  
 >* SPRINT 7-8-9 **Python**
->>* Pandas. —
+>>* Pandas. 
 >>* Manipulación, limpieza, transformación y análisis de datos.
->>* EDA (Análisis Exploratorio de Datos)
+>>* EDA (Análisis Exploratorio de Datos).
 >>*  Exploración, detección de patrones y obtención de conclusiones.
 >>*  Visualización de datos.
 
