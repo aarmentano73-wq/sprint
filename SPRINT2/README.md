@@ -1,3 +1,5 @@
+**SQL**
+
 **Comentarios:**
 
 Contiene información de una empresa dedicada a la venta de productos en línea. En esta actividad me centraré 
