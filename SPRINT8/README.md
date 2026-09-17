@@ -9,5 +9,9 @@ Nos centramos en Python y Pandas: agrupaciones y análisis de datos, evaluación
 >* Introducción a Pandas.
 >* Agrupaciones y transformaciones de tablas.
 >* Limpieza y transformación.
->* Estádistica
+>* Estadística.
+>* Exploración datasets.
+>>* Validaciones y decisiones.
+>>* Transformaciones necesarias.
+>* Creación de variables derivadas (Feature Engineering)
 
