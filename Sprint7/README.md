@@ -1,1 +1,2 @@
-Sprint7 Python . 1er sprint FUNCIONS MODULARS. ALGORITMES
+Python . (1er sprint) 
+Creación de funciones modulares. Estructura de datos. Bucles. Algoritmos.
