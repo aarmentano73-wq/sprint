@@ -1,8 +1,8 @@
-**BigQuerys y SQL (cloud)**
+**BigQuery y SQL (cloud)**
 
 **Descripción:**
 
-En este proyecto pasamos de trabajar en local (MySQL) a trabajar en Google BigQuerys (cloud), un entorno serverless orientado al Análisis de Datos.
+En este proyecto pasamos de trabajar en local (MySQL) a trabajar en Google BigQuery (cloud), un entorno serverless orientado al Análisis de Datos.
 
 **El objetivo:**
 
@@ -13,9 +13,9 @@ En este proyecto pasamos de trabajar en local (MySQL) a trabajar en Google BigQu
 
 **Contenido del Proyecto:**
 
-  >* Separación de almacenaje y Computo a BigQuerys.
+  >* Separación de almacenaje y Computo a BigQuery.
   >* Arquitectura de Datos. Implamentación del Patrón Medallion.
-  >* Transformación y Calidad del Dato en BigQuerys.
+  >* Transformación y Calidad del Dato en BigQuery.
   >* Limpieza y transformación de datos.
   >* Consultas SQL para validación y análisis.
 
