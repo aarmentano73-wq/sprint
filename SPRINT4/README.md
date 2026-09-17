@@ -1,4 +1,4 @@
-**BigQuery** (Parte II)
+**BigQuery** *(Parte II)*
 
 **Descripción:**
 
