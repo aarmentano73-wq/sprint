@@ -1,4 +1,4 @@
-**POWER BI** *(parteI)*
+**POWER BI** *(parte I)*
 
 **Descripción**
 
