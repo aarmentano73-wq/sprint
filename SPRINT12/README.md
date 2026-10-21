@@ -1,6 +1,6 @@
 **POWER BI** *(parte II)*
 
-**Visualizaciones en Power BI y analisis de ventas. Dashboard Ejecutivo**
+**Visualizaciones en Power BI y analisis de ventas. Dashboard Ejecutivo.**
 
 **Descripción**
 
